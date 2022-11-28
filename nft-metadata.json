@@ -1,0 +1,19 @@
+{
+  "attributes": [
+    {
+      "trait_type": "ANIMATE",
+      "value": "Q-Bit 2"
+    },
+    {
+      "trait_type": "BORDER",
+      "value": "Black"
+    },
+    {"trait_type": "SFX",
+     "value": "Custom Built" 
+    }
+  ],
+  "description": "Alive and kicking with custom built SFX.",
+  "image": "ipfs://QmSwvpYFcuaLt7jiY3n6MTuqQVa7jjAfhXm3bLFHzapiYj",
+  "animation_url": "ipfs://QmSwvpYFcuaLt7jiY3n6MTuqQVa7jjAfhXm3bLFHzapiYj",
+  "name": "Q-Bit 2 Animate 5"
+}
